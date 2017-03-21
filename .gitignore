@@ -8,6 +8,7 @@ cli/bundle
 cli/examples.txt
 dist
 web/electron
+web/lib/common/dictionary_en.json
 web/app/components/Exchange/exchange.css
 cli/bundle.js
 web/dist-prod
